@@ -1,0 +1,190 @@
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+margin-top: 200px;
+font-family: 'Roboto', sans-serif;
+display: block;
+height: infinite;
+overflow-y: auto;
+z-index: 500;
+font-size: 20px;
+color: rgba(0,0,0,0.54);
+min-height: 1000px;
+
+}
+li {
+  list-style: none;
+  list-style-type: none;
+
+}
+ul{
+  list-style: none;
+  list-style-type: none;
+
+}
+
+nav ul {
+  display: flex;
+  margin: 20px;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding: 15px;
+  font-size: 1.3em;
+  letter-spacing: 1px;
+  list-style-type: none;
+}
+
+nav ul li a {
+  list-style-type: none;
+  color: black;
+  text-decoration: none;
+  list-style-type: none;
+  color: rgba(0,0,0,0.54);
+}
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  white-space: nowrap;
+
+  display: block;
+  min-height: 5%;
+  margin: auto;
+  padding: 2% 3%;
+  background-color: white;
+  background-position: right top;
+  z-index: 500;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  color: grey;
+
+
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  max-height: 2%;
+  margin-top: 95%;
+  color: black;
+  padding: 2% 3%;
+  background-color: white;
+font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  color: #ff5e53;
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav{
+margin-left: 60%;
+margin-top:-140px;
+}
+#title {
+  margin-top: -20px;
+  font-size: 65px;
+  color: grey;
+  font-weight: 100;
+  text-transform: uppercase;
+   font-style: italic;
+
+}
+  .icons {
+  padding: 10px 60px 10px 1px;
+  margin-top: -20px;
+}
+  #contact{
+  height: 400px;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 200px;
+
+ }
+ a {
+ color: steelblue;
+  text-decoration: none;
+  font-style: italic;
+}
+a:hover{
+
+  text-decoration: underline;
+}
+ #blog{
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+
+ }
+
+
+  #about{
+  height: 400px;
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 200px;
+
+ }
+ p{
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 100;
+ }
+
+ #one{
+  margin-bottom: 50px;
+ }
+  #two{
+  margin-bottom: 50px;
+ }
+   #three{
+  margin-bottom: 50px;
+ }
+ #images {
+  float: right;
+  height: 300px;
+  width: 300px;
+ }
+ aside {
+  margin-left: -450px;
+  margin-top: 250px;
+
+ }
+ #one{
+width: 486px;
+height: 408px;
+margin-right: -550px;
+margin-top: -330px;
+
+ }
+
+ .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
