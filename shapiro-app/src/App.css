@@ -74,7 +74,7 @@ footer {
   color: black;
   padding: 2% 3%;
   background-color: white;
-font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   color: #ff5e53;
   margin: 0 auto;
@@ -95,7 +95,7 @@ margin-top:-140px;
 
 }
 
-span {
+#menu {
   margin-top: 30px;
   font-size: 30px;
   color: grey;
@@ -145,7 +145,7 @@ a:hover{
 
  }
  p{
-  font-size: 40px;
+  font-size: 30px;
   font-style: italic;
   font-weight: 100;
  }
@@ -172,7 +172,7 @@ a:hover{
  #one{
 width: 486px;
 height: 408px;
-margin-right: -550px;
+margin-right: -250px;
 margin-top: -330px;
 
  }
@@ -196,6 +196,7 @@ margin-top: -330px;
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
 
 
 

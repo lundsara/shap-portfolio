@@ -11,7 +11,7 @@ class Header extends Component {
 
 
        <div class="dropdown">
-  <span>Menu</span>
+  <span id="menu">Menu</span>
   <div class="dropdown-content">
     <ul>
          <li><Link to="/blog">Blog</Link></li>
