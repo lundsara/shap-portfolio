@@ -9,7 +9,7 @@ class Blog extends Component {
 
 
       <div class="tri" id="two">
-      <a target="_blank" href="https://aectnyc.tumblr.com/"><img src="https://imgur.com/vWjf6gD.png"/> </a>
+      <a target="_blank" href="https://aectnyc.tumblr.com/"><img class="lasers" src="https://imgur.com/vWjf6gD.png"/> </a>
       </div>
 
     </div>

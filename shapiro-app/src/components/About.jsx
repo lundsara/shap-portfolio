@@ -7,7 +7,7 @@ class About extends Component {
       <div class="container">
       <div id="about">
       <aside>
-      <p> Hello, my name is Brad!<br/> I am a NYC-based BIM Engineer and <br/> Reality Capture Specialist. I am interested in the intersection <br/> of technology and construction. Check out my blog <br/> and reach out to me through my contact page!</p>
+      <p> Hello, my name is Brad! I am a NYC-based BIM Engineer and Reality Capture Specialist. I am interested in the intersection of technology and construction. Check out my blog and reach out to me through my contact page!</p>
       </aside>
       <div id="images">
       <div class="tri">
